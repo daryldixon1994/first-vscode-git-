@@ -1,3 +1,3 @@
 const newModule = require("./newModule");
 
-newModule.multiply(12, 2);
+newModule.add(12, 2);
